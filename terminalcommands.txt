@@ -1,0 +1,54 @@
+In Windows, you can use various commands to perform tasks in the Command Prompt. Here's a list of some common and useful commands:
+
+dir: List the files and directories in the current directory.
+
+cd: Change the current directory.
+
+mkdir: Create a new directory.
+
+rmdir (or rd): Remove a directory.
+
+copy: Copy files and directories.
+
+move: Move files and directories.
+
+del (or erase): Delete files.
+
+ren: Rename a file or directory.
+
+cls: Clear the Command Prompt window.
+
+ipconfig: Display network configuration information.
+
+ping: Send a network request to a specific IP address or hostname.
+
+netstat: Display network statistics and active network connections.
+
+tasklist: List running processes.
+
+taskkill: Terminate a running process.
+
+systeminfo: Display detailed information about the computer's hardware and software.
+
+chdir: Display or change the current directory.
+
+help: Get help and information about other commands.
+
+sfc /scannow: Scan and repair system files.
+
+chkdsk: Check and repair disk errors.
+
+format: Format a disk or drive.
+
+shutdown: Shutdown or restart the computer.
+
+regedit: Open the Windows Registry Editor.
+
+Please note that many of these commands can have various options and parameters to perform specific tasks. You can get more information about each command and its options by typing the command followed by "/?" or referring to the official Microsoft documentation.
+
+1. To move from one directory to another use cd [add path here]
+
+2.To create a new file in cmd use this command: echo. > filename.txt
+
+3.To see the content from the text file: type filename.txt
+
